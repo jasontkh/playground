@@ -3,6 +3,7 @@
 One joke per person
 
 ## Jason
+I am smart.
 
 ## Katy
 The sky is blue.
