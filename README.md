@@ -8,8 +8,8 @@ Really?
 YES
 
 ## Katy
-The sky is blue.
-Happy Sunday.
+- The sky is blue.
+- Happy Sunday.
 
 ## Henry
 HAHAHA
