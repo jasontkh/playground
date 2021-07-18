@@ -6,6 +6,7 @@ One joke per person
 
 ## Katy
 The sky is blue.
+Happy Sunday.
 
 ## Henry
 
