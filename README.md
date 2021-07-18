@@ -5,6 +5,7 @@ One joke per person
 ## Jason
 I am smart.
 Really?
+YES
 
 ## Katy
 The sky is blue.
@@ -12,7 +13,8 @@ Happy Sunday.
 
 ## Henry
 HAHAHA
-double "
+double
+
 ## Boo
 SLEEP IS FOR THE WEAK! How to get a baby to sleep? 123456788888888
 
